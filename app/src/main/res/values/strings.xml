@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Dikkat</string>
+    
+    <string-array name="road_types">
+        <item>Şehir İçi (50 km/h)</item>
+        <item>Çift Yönlü Yol (80 km/h)</item>
+        <item>Bölünmüş Yol (90 km/h)</item>
+        <item>Paralı Otoyol (100 km/h)</item>
+    </string-array>
+    
+    <string-array name="road_types_simple">
+        <item>Şehir İçi</item>
+        <item>Çift Yönlü Yol</item>
+        <item>Bölünmüş Yol</item>
+        <item>Paralı Otoyol</item>
+    </string-array>
 </resources>
